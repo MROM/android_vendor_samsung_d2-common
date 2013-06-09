@@ -107,6 +107,7 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so:system/lib/libchromatix_s5k6a3yx_smart_stay.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so:system/lib/libchromatix_s5k6a3yx_vt_hd.so \
         vendor/samsung/d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so:system/lib/libchromatix_s5k6a3yx_vt.so \
+        vendor/samsung/d2-common/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
         vendor/samsung/d2-common/proprietary/cameradata/SlimISP_GC.bin:system/cameradata/SlimISP_GC.bin \
         vendor/samsung/d2-common/proprietary/cameradata/SlimISP_GD.bin:system/cameradata/SlimISP_GD.bin \
         vendor/samsung/d2-common/proprietary/cameradata/SlimISP_GE.bin:system/cameradata/SlimISP_GE.bin \
